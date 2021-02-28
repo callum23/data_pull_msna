@@ -1,10 +1,8 @@
 
 # Title           : Download data directly from the KOBO humanitarian response. 
 # Developer       : Cal Pearson
-# Email           : callum-pearson@outlook.com
 # Version         : v1
 # Date Mofified   : 10/06/2020
-# Modified by who : Cal Pearson
 # Description     : Find the form ID
 #                 : Directly attaching the data into R
 
